@@ -1,0 +1,11 @@
+{
+  "name": "api-actuator",
+  "description": "api-actuator",
+  "version": "1.0.1",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.51",
+    "@types/node": "17.0.18"
+  },
+  "devDependencies": {
+  }
+}
